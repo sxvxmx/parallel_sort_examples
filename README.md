@@ -11,4 +11,4 @@ Parallelized Merge Sort: Uncover the benefits of parallelizing the divide-and-co
 
 Binary Search with Parallelized Sorting: Extend your comprehension by integrating binary search with parallelized sorting algorithms. Explore examples demonstrating optimized binary search operations on sorted arrays achieved through parallel computing.
 
-This project provides developers and learners with practical exposure to OpenMP for parallelizing sorting algorithms. It elucidates thread coordination intricacies and showcases tangible performance improvements achievable through parallel computing in the C++ environment. Whether a seasoned coder or a curious learner, this project offers a concise yet comprehensive journey into the realm of parallelized sorting.
+This project provides developers and learners with practical exposure to OpenMP for parallelizing sorting algorithms. It elucidates thread coordination intricacies and showcases tangible performance improvements achievable through parallel computing in the C++ environment.
