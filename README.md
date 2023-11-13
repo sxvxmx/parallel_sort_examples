@@ -1,5 +1,6 @@
 # parallel_sort_examples
 Parallelized Sorting Algorithms with OpenMP in C++
+
 Embark on an exploration of parallel computing efficiency through the lens of sorting algorithms in C++. This project focuses on the implementation of Bubble Sort, Quick Sort, and Merge Sort, augmented by the parallel processing capabilities of OpenMP—an API facilitating the development of multi-threaded applications.
 
 Bubble Sort Parallelization: Investigate the adaptation of Bubble Sort into a parallelized version, where multiple threads collaborate for efficient array sorting. Gain insights into the intricacies of parallelizing this foundational sorting algorithm.
